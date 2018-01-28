@@ -9,9 +9,9 @@ public class Babelkowe {
             for (int j = 0; j < tab.length - 1; j++) {
                 if (tab[j] > tab[j + 1]) {
                     //SWAP
-                    int temp = tab[j];
-                    tab[j] = tab[j + 1];
-                    tab[j + 1] = temp;
+                    int temp = tab[j+1];
+                    tab[j+1] = tab[j];
+                    tab[j] = temp;
                 }
             }
         }
