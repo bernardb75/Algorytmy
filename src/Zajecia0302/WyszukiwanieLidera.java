@@ -1,6 +1,7 @@
 package Zajecia0302;
 
 public class WyszukiwanieLidera {
+<<<<<<< HEAD
     public static void main(String[] args) {
         int[] tab={1,2,2,2,1,6,2};
 
@@ -27,4 +28,6 @@ public class WyszukiwanieLidera {
             System.out.println(-1);
         }
     }
+=======
+>>>>>>> master
 }

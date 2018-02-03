@@ -1,6 +1,7 @@
 package Zajecia0302;
 
 public class WyszukiwanieMinMax {
+<<<<<<< HEAD
     public static void main(String[] args) {
         String input = "[1,4,78,3]";
         String values = input.substring(input.indexOf("[") + 1, input.indexOf("]")).trim();
@@ -26,4 +27,6 @@ public class WyszukiwanieMinMax {
         System.out.println(arrMax+":"+max);
 
     }
+=======
+>>>>>>> master
 }

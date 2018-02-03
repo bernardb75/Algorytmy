@@ -1,5 +1,6 @@
 package Zajecia0302;
 
+<<<<<<< HEAD
 import java.util.ArrayList;
 
 public class ListyDemo {
@@ -17,4 +18,7 @@ public class ListyDemo {
             System.out.println("foreach: "+car);
         }
     }
+=======
+public class ListyDemo {
+>>>>>>> master
 }

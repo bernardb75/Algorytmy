@@ -1,6 +1,7 @@
 package Zajecia0302.MyList;
 
 public class Element {
+<<<<<<< HEAD
 
         private int data;
         private Zajecia0302.MyList.Element next;
@@ -36,4 +37,6 @@ public class Element {
                 "data=" + data +
                 '}';
     }
+=======
+>>>>>>> master
 }
