@@ -1,7 +1,7 @@
 package Zajecia0302;
 
 public class PrzeszukiwanieTablicy {
-<<<<<<< HEAD
+
     public static void main(String[] args) {
         String input = "4 [1,4,78,3]";
         String numberString = input.substring(0, input.indexOf("[")).trim();
@@ -25,6 +25,4 @@ public class PrzeszukiwanieTablicy {
         System.out.println(index);
 
     }
-=======
->>>>>>> master
 }

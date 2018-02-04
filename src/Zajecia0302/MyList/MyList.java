@@ -1,7 +1,7 @@
 package Zajecia0302.MyList;
 
 public class MyList {
-<<<<<<< HEAD
+
     private int counter = 0;
     private Element head;
     private Element tail;
@@ -168,6 +168,4 @@ public class MyList {
             } else break;
         }
     }
-=======
->>>>>>> master
 }

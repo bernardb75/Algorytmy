@@ -1,7 +1,7 @@
 package Zajecia0302.MyList;
 
 public class MyListDemo {
-<<<<<<< HEAD
+
     public static void main(String[] args) {
         MyList lista = new MyList();
         lista.addAtBegining(9);
@@ -37,6 +37,6 @@ public class MyListDemo {
     }
 }
 
-=======
-}
->>>>>>> master
+
+
+
