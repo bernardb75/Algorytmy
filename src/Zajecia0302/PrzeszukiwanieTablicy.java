@@ -22,7 +22,7 @@ public class PrzeszukiwanieTablicy {
                 break;
             }
         }
-        System.out.println(index);
+        System.out.printf("Pozycja-%s :liczba-%s",index,valuesInt[index]);
 
     }
 }

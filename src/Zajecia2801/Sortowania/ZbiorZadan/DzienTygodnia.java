@@ -1,3 +1,4 @@
+
 package Zajecia2801.Sortowania.ZbiorZadan;
 
 import java.util.Scanner;
